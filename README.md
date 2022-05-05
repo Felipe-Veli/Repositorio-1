@@ -3,6 +3,6 @@ repositorio donde podemos encontrar un codigo para convolución animada
 ***
 ## saludos cordiales
 
-leonardo dot santos @ alumnos dot uach dot cl
+leonardo dot santos at alumnos dot uach dot cl
 
-felipe dot veliz @ alumnos dot uach dot cl
+felipe dot veliz at alumnos dot uach dot cl
