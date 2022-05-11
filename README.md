@@ -1,5 +1,5 @@
-# Repositorio-1
-repositorio donde podemos encontrar un codigo para convolución animada
+# Trabajo de Convolución
+Repositorio donde podemos encontrar un codigo para visualizar la convolución de forma animada
 ***
 ## saludos cordiales
 
