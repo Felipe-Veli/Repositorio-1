@@ -20,3 +20,6 @@ En el siguiente repositorio se demostrará el proceso de convolución mediante u
 **ACUS099 - Ingenieria Civil Acústica - Universidad Austral de Chile**
 
 ### Referencias
+
+[1] Oppenheim, Alan V., John R. Buck, and Ronald W. Schafer. Discrete-time signal processing. Vol. 2. Upper Saddle River, NJ: Prentice Hall, 2001.
+[2] "Procesamiento de señales - Convolución en python" https://www.youtube.com/watch?v=37CzQ8YCmlc&ab_channel=RobertoLomel%C3%AD
